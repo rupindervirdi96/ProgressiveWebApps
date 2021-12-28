@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProgessiveWebApps/static/css/main.073c9b0a.css",
+    "main.js": "/ProgessiveWebApps/static/js/main.91c2c309.js",
+    "static/js/787.d857ae31.chunk.js": "/ProgessiveWebApps/static/js/787.d857ae31.chunk.js",
+    "index.html": "/ProgessiveWebApps/index.html",
+    "main.073c9b0a.css.map": "/ProgessiveWebApps/static/css/main.073c9b0a.css.map",
+    "main.91c2c309.js.map": "/ProgessiveWebApps/static/js/main.91c2c309.js.map",
+    "787.d857ae31.chunk.js.map": "/ProgessiveWebApps/static/js/787.d857ae31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.91c2c309.js"
+  ]
+}
